@@ -120,14 +120,8 @@ To run this project locally, follow these steps:
     ```bash
     npm install
     ```
-
-4. **Create a `.env` file in the root directory and add the following environment variables:**
-    ```bash
-    MONGODB_URI=your_mongo_database_url
-    JWT_SECRET=your_jwt_secret
-    ```
-
-5. **Start the server:**
+    
+4. **Start the server:**
     ```bash
     npm start
     ```
