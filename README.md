@@ -100,3 +100,44 @@ A comprehensive web-based event management system designed for campus environmen
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Authentication: JWT
+
+
+
+## Installation Instructions
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/GyameraYaw/Eventicity.git
+    ```
+
+2. **Navigate to the project directory:**
+    ```bash
+    cd Eventicity
+    ```
+
+3. **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+4. **Create a `.env` file in the root directory and add the following environment variables:**
+    ```bash
+    MONGODB_URI=your_mongo_database_url
+    JWT_SECRET=your_jwt_secret
+    ```
+
+5. **Start the server:**
+    ```bash
+    npm start
+    ```
+
+Your backend should now be running on `http://localhost:5000` (or the port you've configured).
+
+
+
+## Deployment Link
+You can view the deployed frontend here:
+
+Frontend: [Eventicity Frontend](https://eventicity-frontend.onrender.com)
+
