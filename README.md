@@ -9,7 +9,7 @@ A comprehensive web-based event management system designed for campus environmen
 - User Authentication (Register/Login)
 - Event Viewing and RSVP
 - Event Preference Settings
-- Calendar View of Events
+- Calendar View of Events (Click the dates with the dots to view the events on that day)
 - Event Filtering by Type
 
 ### Admin Features
